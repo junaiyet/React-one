@@ -1,0 +1,15 @@
+ul{
+    background-color: black;
+     padding: 20px 0;
+}
+ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+ul li a{
+    color: #fff;
+}
+ul li .active{
+    color: blueviolet;
+}
